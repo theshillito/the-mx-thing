@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>The Mx Thing - DOM Inspector</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+</head>
+<body>
+  <a href="index.html">Home Page</a>
+<h1>Messing with the DOM Inspector</h1>
+<h2>SUBbing out the titles</h2>
+<p>Here's a dropdown list I'm sure you're all familiar with:</p>
+<select>
+  <option value="">Select a title</option>
+  <option value="Mr">Mr</option>
+  <option value="Ms">Ms</option>
+  <option value="Miss">Miss</option>
+  <option value="Mrs">Mrs</option>
+  <option value="Dr">Dr</option>
+</select>
+<p>Notice how there's no Mx option in there. Well, sometimes, it's possible to add your own title in here and actually be successful with the form submission. I'm going to explain how to do it, but first, the caveats:</p>
+<p style='font-weight:bold; color:red;'>This isn't always going to work and you may experience issues further down the line if it does.</p>
+<p>If it does work:
+<ul>
+<li>company staff might think it's a mistake and change it to their perception of your gender</li>
+<li>it might revert itself to a default value like "Mr" after submission</li>
+<li>it might break other systems the company uses or parts of the website</li>
+<li>it might show a warning asking you to pick one of the original options</li>
+</ul>
+All of the above has happened to me in the past, and it's by far not a comprehensive list, so please remember that your milage may vary</p>
+<p>So, without further ado, let's learn how this works.</p>
+<ul>
+<li>I want you to go to that dropdown list, right click it and then click "Inspect" or "Inspect Element" (depending on your browser) on the menu that pops up.
+<li>You'll now have either a section of your browser taken up by a load of computer code, or another window. Both work the same.
+<li>You will see code like this:
+<code>
+&lt;select&gt;
+  &lt;option value=&quot;&quot;&gt;Select a title&lt;/option&gt;
+  &lt;option value=&quot;Mr&quot;&gt;Mr&lt;/option&gt;
+  &lt;option value=&quot;Ms&quot;&gt;Ms&lt;/option&gt;
+  &lt;option value=&quot;Miss&quot;&gt;Miss&lt;/option&gt;
+  &lt;option value=&quot;Mrs&quot;&gt;Mrs&lt;/option&gt;
+  &lt;option value=&quot;Dr&quot;&gt;Dr&lt;/option&gt;
+&lt;/select&gt;
+</code>
+<li>This is what powers the dropdown list of titles. Each title appears twice. Once next to value, and once between the triangle brackets.
+<li><code>value='Mr'</code> means that "Mr" is what's sent to the website if this is selected. This is what you will need to change in order to send "Mx" or another title. Change this by double clicking it to enable text entry and then type in, making sure all the speech marks and/or quotes are the same as they originally were.
+<li><code>&gt;Mr&lt;option&gt;</code> means that "Mr" is what appears in the dropdown list <strong>visually</strong> and is nothing to do with what is sent with the rest of the form. You can change this as well if you want to, as it lets you see which option you've actually changed.
+</ul>
+<p>And that's it. Try it out on the dropdown list at the top of this page. There's no page to submit to, but you can try out messing with the code.</p>
+
+<p>I will link to this page elsewhere on this website when I come across sites where the form can be modified in this way and if it's successful, along with any warnings. However, you can attempt to use this anywhere and see what happens. Please let me know if you're successful with any site using this method and I'll add it here and credit you (if you wish). Please email <a href="mailto:please@dontgender.me">please@dontgender.me</a></p>
+
+<p>Good luck</p>
+</body>
+</html>
