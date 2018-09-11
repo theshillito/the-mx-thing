@@ -1,0 +1,28 @@
+Q&amp;A for companies
+
+Question: My company is on this website.
+Answer: That's not a question, but I'll explain why. If your company is on this website, it's because a gender neutral individual either uses or wants to use your services.
+
+Question: Wait wait, gender neutral?
+Answer: That sounds like an actual question, good work. On many sign up and contact forms, the person filling it out has to select from a list of titles (typical options include "Mr", "Miss") and sometimes a gender (typical options are "Male" and "Female"). There are many out there who, for whatever reason, are not happy sharing their gender with this company, particularly as it's usually not relevant to the thing they're signing up to (you don't need to know if someone has an innie or an outie to order groceries, for example). In addition, there are people who do not consider themselves to be "male" or "female", often referred to as "non-binary" individuals. Those people would be completely unable to use these website forms or companies without lying and, with GDPR regulations now in place, intentionally storing inaccurate information about an individual can result in fines or other penalties.
+
+Question: So what does "Mx" mean then?
+Answer: Good question. Most titles start with an 'M' and the 'x' is just a wildcard character that denotes that it could be anything. 
+
+Question: But "Mr" is short for "Mister". How do you even say "Mx"?
+Answer: Usually something like "Mix" or "Mux" or just "Emm Ecks".
+
+Question: So 'Mx' is quite new then?
+Answer: Perhaps comparatively speaking, but "Mx" has existed since the late 1970s and started to be used a lot since 1985 (ref: https://www.telegraph.co.uk/men/the-filter/11597192/Whats-it-like-to-be-a-Mx.html ) so I wouldn't say it's new to be honest.
+
+Question: What do I need to do?
+Answer: There are two things all companies and websites need to do, if they haven't done so already:
+1) Title fields need to either be optional (can be left blank), include an "Mx" option or allow the user to type their own title in. This last one has the added benefit of catering to those with more unusual titles such as "Captain" or "Dame".
+2) Don't ask for sex or gender unless you genuinely need it. If you do need it, you need a third option for "non-binary" or "decline to answer".
+
+Question: But my product/website/business swaps "he" and "she" around depending on the gender settings.
+Answer: Don't.
+
+Question: But...
+Answer: Replace "he" and "she" with "they" for all users, or let users pick what they want to be called (Facebook offers this). I reccomend reading this regarding the use of "they" as a singular pronoun: https://www.merriam-webster.com/words-at-play/singular-nonbinary-they
+
