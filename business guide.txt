@@ -1,28 +1,30 @@
 Q&amp;A for companies
 
-Question: My company is on this website.
-Answer: That's not a question, but I'll explain why. If your company is on this website, it's because a gender neutral individual either uses or wants to use your services.
+Question: Why is my company on this website?
+Answer: If your company is on this website, it's because someone either uses or wants to use your services and they prefer to use "Mx" as their title, or otherwise prefers to be identified as gender-neutral.
 
-Question: Wait wait, gender neutral?
-Answer: That sounds like an actual question, good work. On many sign up and contact forms, the person filling it out has to select from a list of titles (typical options include "Mr", "Miss") and sometimes a gender (typical options are "Male" and "Female"). There are many out there who, for whatever reason, are not happy sharing their gender with this company, particularly as it's usually not relevant to the thing they're signing up to (you don't need to know if someone has an innie or an outie to order groceries, for example). In addition, there are people who do not consider themselves to be "male" or "female", often referred to as "non-binary" individuals. Those people would be completely unable to use these website forms or companies without lying and, with GDPR regulations now in place, intentionally storing inaccurate information about an individual can result in fines or other penalties.
+Question: What do you mean "gender-neutral"?
+Answer: On many sign up and contact forms, the person filling it out has to select from a list of titles (typical options include "Mr", "Miss") and sometimes a gender (typical options are "Male" and "Female"). There are many out there who, for whatever reason, are not happy sharing their gender with your company, particularly as it's usually not relevant to the thing they're signing up to (you don't need to know someone's gender to deliver them groceries, for example). In addition, there are people who do not consider themselves to be "male" or "female", often referred to as "non-binary" individuals. Those people would be completely unable to use these website forms or companies without lying and, with GDPR regulations now in place, intentionally storing inaccurate information about an individual can result in fines or other penalties. 
 
 Question: So what does "Mx" mean then?
 Answer: Good question. Most titles start with an 'M' and the 'x' is just a wildcard character that denotes that it could be anything. 
 
-Question: But "Mr" is short for "Mister". How do you even say "Mx"?
+Question: "Mr" is short for "Mister". How do you even say "Mx"?
 Answer: Usually something like "Mix" or "Mux" or just "Emm Ecks".
 
-Question: So 'Mx' is quite new then?
+Question: Is 'Mx' quite a new thing then?
 Answer: Perhaps comparatively speaking, but "Mx" has existed since the late 1970s and started to be used a lot since 1985 (ref: https://www.telegraph.co.uk/men/the-filter/11597192/Whats-it-like-to-be-a-Mx.html ) so I wouldn't say it's new to be honest.
 
 Question: What do I need to do?
 Answer: There are two things all companies and websites need to do, if they haven't done so already:
-1) Title fields need to either be optional (can be left blank), include an "Mx" option or allow the user to type their own title in. This last one has the added benefit of catering to those with more unusual titles such as "Captain" or "Dame".
-2) Don't ask for sex or gender unless you genuinely need it. If you do need it, you need a third option for "non-binary" or "decline to answer".
+1) Title fields need to either be optional (can be left blank), include an "Mx" option or allow the user to type their own title in. This last one has the added benefit of catering to those with more uncommon titles such as "Captain" or "Dame".
+2) Don't ask for gender unless you genuinely need it. If you can find a way to justify why you need to ask for a gender from the person filling in your form, you should have a third option that is "non-binary/none" or "other" and you may wish to have a text box so people can enter what they identify as. Common practice is to also have a "prefer not to say" option, which is sometimes merged with "other", but at that point why are you asking?
+2a) Some forms erroneously call their gender field "sex". "Sex" on a form refers specifically to what genitals someone has rather than identity. There are very specific situations where having a "sex" field on a form is necessary. For example, if you're a medical surgery, you may genuinely need to know the type of genitals a client has to assign appropriate care, so you would have a "sex" section on your form. There are also intersex individuals who have characteristics of both, so you should include "intersex" as an option too.
 
-Question: But my product/website/business swaps "he" and "she" around depending on the gender settings.
-Answer: Don't.
+Question: My product/website/business swaps "he" and "she" around depending on the gender settings. What should I do?
+Answer: My advice would be to not do this and instead use the gender-neutral term "they" for all users. Alternatively, you could let users pick the specific pronouns that they want to be called (a significant example is Facebook who has offered both self-identification and pronouns since 2014). 
 
-Question: But...
-Answer: Replace "he" and "she" with "they" for all users, or let users pick what they want to be called (Facebook offers this). I reccomend reading this regarding the use of "they" as a singular pronoun: https://www.merriam-webster.com/words-at-play/singular-nonbinary-they
+Further reading:
+For more information about using "they" as a singular pronoun, Merriam-Webster has a good article about it https://www.merriam-webster.com/words-at-play/singular-nonbinary-they and 0xabad1dea has wrote some guidelines for more technical documents https://gist.github.com/0xabad1dea/8870b192fd1758743f66
 
+Facebook officially launching self-identification for gender and pronouns was back in 2014 and it was covered by several news outlets, such as TechCrunch https://techcrunch.com/2014/02/13/facebook-gender-identity/
